@@ -1,0 +1,73 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+
+    display: flex;
+}
+
+.text_gap {
+    margin: 10px;
+}
+
+.landing {
+    background-color: rgb(14, 4, 55);
+}
+
+.landing_text {
+    color: white;
+    width: 50%;
+    padding: 130px 10px 25px 80px;
+}
+
+.landing_text button {
+    background-color: tomato;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+
+.landing_text button a {
+    color: white;
+    text-decoration: none;
+}
+
+.landing_img {
+    width: 50%;
+
+}
+
+.landing_img img {
+    width: 80%;
+}
+
+second {
+    display: flex;
+}
+
+.second_img {
+    width: 50%;
+}
+
+.second_img img {
+    width: 60%;
+}
+
+.second_text {
+    width: 50%;
+    padding: 130px 10px 25px 80px;
+}
+
+.second_text button {
+
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+
+.text_gap2 {
+    margin: 10px;
+}
